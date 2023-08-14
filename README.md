@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NilosmitaBanerjee1
 - 👀 I’m interested in Cognitive Modelling, Mathematical Psychology, ML and RL
-- 🌱  What do I do? - I am a Training Cognitive Scientist working as a PhD Researcher in the fields of Cognitive Control and Decision Making at ULB and UGent
+- 🌱  What do I do? - I am a Training Cognitive Scientist working as a PhD Researcher in the fields of Risky Decision Making in Behavioural Addiction in Big Data at ULB and UGent
 - 🌱 I currently use R for Big Data analysis
 - 💞️ I’m looking to collaborate on Cognitive Psychology Projects
 - 📫 How to reach me - Follow me on my Twitter handle @AkiraBanerjee
